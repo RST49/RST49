@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://private-user-images.githubusercontent.com/91647795/369320431-31ad3d3a-ff84-4c1f-9665-2ec99b19aec6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY4MjAwNDcsIm5iZiI6MTcyNjgxOTc0NywicGF0aCI6Ii85MTY0Nzc5NS8zNjkzMjA0MzEtMzFhZDNkM2EtZmY4NC00YzFmLTk2NjUtMmVjOTliMTlhZWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTIwVDA4MDkwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA4ZDI3MmZmNGU1MGQ4OWEzMTE5ZGVmZGFiYzg4ZmI5NzBkMjk3Y2FkMmJiYTQ2MzYyMGNkNmY4YTAwNTBiMDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.g90nDczxRbFQ-pJcZIQJOsTmJqEpcXh4Vh9NVu5mc2Q" alt="Banner" />
+</h1>
+
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
